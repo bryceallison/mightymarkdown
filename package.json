@@ -19,6 +19,7 @@
   "homepage": "https://github.com/bryceallison/mightymarkdown",
   "dependencies": {
     "glue": "^2.0.0",
+    "handlebars": "^3.0.3",
     "hapi": "^8.6.1",
     "hoek": "^2.14.0"
   }
